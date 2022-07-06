@@ -1,4 +1,5 @@
 Baachelor's final thesis.
+
 Abstract:
 Object detection is technology of computer 
 vision and image processing which deals with detection 
