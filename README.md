@@ -1,4 +1,4 @@
-Baachelor's final thesis.
+Bachelor's final thesis, done by a team of four students.
 
 Abstract:
 Object detection is technology of computer 
